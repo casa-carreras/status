@@ -33,7 +33,7 @@ status-website:
   cname: status.casa-carreras.es
   name: Pedraja Status
   logoUrl: https://casa-carreras.es/web/image/website/1/logo/Bellas%20Artes%20Casa%20Carreras?unique=cb91b6d 
-  introTitle: "**Estado de los servicios de Pedraja**"
+  introTitle: "**Estado de los servicios de Casa Carreras**"
   introMessage: Monitoreo en tiempo real de nuestros servicios principales.
   theme: light
   
