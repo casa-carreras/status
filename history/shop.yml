@@ -1,7 +1,7 @@
 url: https://casa-carreras.es
-status: up
-code: 200
-responseTime: 3378
-lastUpdated: 2026-04-18T23:54:26.270Z
+status: down
+code: 502
+responseTime: 410
+lastUpdated: 2026-04-19T23:32:36.886Z
 startTime: 2025-11-30T14:00:51.056Z
 generator: Upptime <https://github.com/upptime/upptime>
