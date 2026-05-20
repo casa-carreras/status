@@ -1,7 +1,7 @@
 url: https://webmail.casa-carreras.es
-status: up
-code: 200
-responseTime: 485
-lastUpdated: 2026-05-19T01:50:47.576Z
+status: down
+code: 502
+responseTime: 363
+lastUpdated: 2026-05-20T00:00:29.170Z
 startTime: 2025-11-30T14:00:52.905Z
 generator: Upptime <https://github.com/upptime/upptime>
